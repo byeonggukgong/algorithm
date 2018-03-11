@@ -11,7 +11,10 @@
 
 ### Baekjoon Online Judge
 
-Coming Soon
+* [1000](/boj/1000.py)
+* [1001](/boj/1001.py)
+* [1008](/boj/1008.py)
+* [10998](/boj/10998.py)
 
 ### Mail Programming
 
