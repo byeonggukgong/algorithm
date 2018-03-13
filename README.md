@@ -20,4 +20,5 @@
 
 ### Mail Programming
 
-Coming Soon
+[Question 1](/mp/question-1.py)
+[Question 2](/mp/question-2.py)
