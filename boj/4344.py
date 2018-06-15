@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
 if __name__ == '__main__':
-    case = int(input())
+    cases = int(input())
 
-    for x in range(case):
+    for case in range(cases):
         output = [float(num) for num in input().split()]
         average = sum(output[1:]) / float(output[0])
         count = sum(1 for num in output[1:] if float(num) > float(average))
