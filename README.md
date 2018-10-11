@@ -19,6 +19,7 @@
 [1001](/boj/1001.py)
 [1008](/boj/1008.py)
 [1010](/boj/1010.py)
+[1026](/boj/1026.py)
 [1094](/boj/1094.py)
 [1110](/boj/1110.py)
 [1152](/boj/1152.py)
@@ -82,4 +83,5 @@
 [Secret Map](/kakao/secret_map.py)
 [Dart Game](/kakao/dart_game.py)
 [Cache](/kakao/cache.py)
+[Shuttle Bus](/kakao/shuttle_bus.py)
 [News Clustering](/kakao/news_clustering.py)
